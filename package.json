@@ -1,0 +1,16 @@
+{
+  "name": "mathai-foods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwind build src/styles.css -o public/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css": "^3.0.0",
+    "tailwind": "^4.0.0"
+  }
+}
